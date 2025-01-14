@@ -16,7 +16,7 @@ Studying Computer Science at UNIJUÍ and having fun with different technologies 
 ## 
 👨‍🎓 Computer science at UNIJUI 07/10
 
-👩‍💻 I'm currently working at Compass.uol as DevSecOps intern
+👩‍💻 I'm currently working at Hostinger as SysAdmin
 
 🧠 I'm currently learning Go with the aim of becoming a full stack developer.
 
