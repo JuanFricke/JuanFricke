@@ -18,7 +18,7 @@ Studying Computer Science at UNIJUÍ and having fun with different technologies 
 
 👩‍💻 I'm currently working at Hostinger as SysAdmin
 
-🧠 I'm currently learning Go with the aim of becoming a full stack developer.
+🧠 I'm currently learning Go, Ansible and SQL
 
 📫 How to reach me:
     - juanpfricke@hotmail.Com 
