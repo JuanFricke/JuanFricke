@@ -1,25 +1,35 @@
+# Hi, I'm Juan 🐢
 
-# Hi, I'm Juan! 👋
+Linux SysAdmin at Hostinger - I work on the fleet behind millions of hosting accounts.
 
+- Linux + LiteSpeed / CloudLinux / CageFS, Ansible + Terraform, Prometheus / Grafana / Fluent Bit, MariaDB / MySQL
+- Go, Python, Bash for daily tooling
+- Building internal ops agents for Jira triage, PR review and runbook retrieval
 
-## 🚀 About Me
-Studying Computer Science at UNIJUÍ and having fun with different technologies and languages.
+## Now
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio.juanfricke.dev)
+- Computer Science at UNIJUÍ - 10/10, graduating Dec 2026
+- Working on my TCC
+
+## Service status: juan.fricke 🐢
+
+```
+SLO: 99% helpful, 1% turtle jokes
+Uptime: since 2021 on GitHub
+Incidents:
+  - Migrated fleet Debian 12 -> 13 with Ansible, no rollback needed
+  - Wrote a CHIP-8 interpreter in C, now it runs Pong
+  - Owns the YOLO badge while working in reliability - irony intentional
+Location: Ijuí, RS - Brazil | PT-BR / EN
+```
+
+## Links
+
+[![portfolio](https://img.shields.io/badge/portfolio-juanfricke.dev-000?style=for-the-badge)](https://juanfricke.dev)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-fricke/)
 
-## 🛠 Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfricke&hide=html,c,css,java,objective-c,cmake,batchfile,)](https://github.com/juanfricke/github-readme-stats)
+Contact: `juanpfricke@gmail.com` - can't be bothered to setup my personal domain as email.
 
+## Top languages
 
-## 
-👨‍🎓 Computer science at UNIJUI 07/10
-
-👩‍💻 I'm currently working at Hostinger as SysAdmin
-
-🧠 I'm currently learning Go, Ansible and SQL
-
-📫 How to reach me:
-    - juanpfricke@hotmail.Com 
-    - juan.fricke@sou.unijui.edu.br
+Don't need it, i'm a SysAdmin, i just program in whatever i need to make things work
