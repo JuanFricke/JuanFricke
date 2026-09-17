@@ -28,8 +28,8 @@ Location: Ijuí, RS - Brazil | PT-BR / EN
 [![portfolio](https://img.shields.io/badge/portfolio-juanfricke.dev-000?style=for-the-badge)](https://juanfricke.dev)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-fricke/)
 
-Contact: `juan@juanfricke.dev` · `juanpfricke@hotmail.com` (legacy)
+Contact: `juanpfricke@gmail.com` - can't be bothered to setup my personal domain as email.
 
-## Stats
+## Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfricke&layout=compact&langs_count=8)](https://github.com/juanfricke/github-readme-stats)
+Don't need it, i'm a SysAdmin, i just program in whatever i need to make things work
