@@ -1,6 +1,6 @@
 # Hi, I'm Juan 🐢
 
-Linux SysAdmin / SRE at Hostinger - I work on the fleet behind millions of hosting accounts.
+Linux SysAdmin at Hostinger - I work on the fleet behind millions of hosting accounts.
 
 - Linux + LiteSpeed / CloudLinux / CageFS, Ansible + Terraform, Prometheus / Grafana / Fluent Bit, MariaDB / MySQL
 - Go, Python, Bash for daily tooling
