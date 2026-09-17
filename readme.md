@@ -9,8 +9,7 @@ Linux SysAdmin at Hostinger - I work on the fleet behind millions of hosting acc
 ## Now
 
 - Computer Science at UNIJUÍ - 10/10, graduating Dec 2026
-- Google Cloud Professional Cloud Architect track via GEAR Get Certified (cohort Oct 2026)
-- Shipping ClassCulator - automatic school timetabling with OR-Tools CP-SAT + hill climbing, FastAPI + Postgres
+- Working on my TCC
 
 ## Service status: juan.fricke 🐢
 
